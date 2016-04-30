@@ -1,30 +1,30 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: Camargo Portas | Portões Automaticos
+description: "Fabricação e autmação de portões."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+url: "camargoportas.com.br" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Camargo Portas
+    hero_description: Fabricação e Automação de Portões.
 
 # Contact form
 api_token: # Enter API token here
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    phone: (11) 99690-4000
+    emergency: (11) 5012-2073 
+    email: atendimento@camargoportas.com.br
+    address: Avenida Agua Funda 324, sala 2, <br> São Paulo - SP
 
 # Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
+monday_friday: 08h00 – 18h00
+saturday: 09h00 – 12h00
+sunday:
 
 # Testimonials
 testimonials:
@@ -33,19 +33,19 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Avenida Agua Funda, 324, São Paulo, SP
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
-feed: yes
+facebook: 
+twitter: 
+instagram: 
+youtube: 
+skype: 
+feed: 
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2016 CamargoPortas - Todos os direitos reservados
 
 # Build settings
 markdown: kramdown
