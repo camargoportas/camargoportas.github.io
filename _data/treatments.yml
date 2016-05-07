@@ -1,23 +1,23 @@
-- icon: icon-user-md
-  title: Invisible braces
+- icon: icon-hospital-o
+  title: Manutenção Predial
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
 
 - icon: icon-diamond
-  title: Cosmetic Dentistry
+  title: Portões Automaticos
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
 
 - icon: icon-flask
-  title: Stain removal
+  title: Serralheria
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
-- icon: icon-globe
-  title: Dentures
+- icon: icon-calendar
+  title: Plano de Manutenção Preventiva
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
 
 - icon: icon-ambulance
-  title: Emergency Calls
+  title: Chamadas de Emergencia
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
 
-- icon: icon-bed
-  title: Sedation
+- icon: icon-briefcase
+  title: Manutenção Residencial
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
