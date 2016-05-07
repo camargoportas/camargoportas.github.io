@@ -12,7 +12,7 @@ hero:
     hero_description: Fabricação e Automação de Portões.
 
 # Contact form
-api_token: # Enter API token here
+api_token: 3dc19c3a00cb2975754900908ee5f71f
 
 # Contact info
 contact:

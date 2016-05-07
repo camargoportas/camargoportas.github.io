@@ -88,30 +88,8 @@ layout: default
 
         <div class="row">
             <div class="col-sm-6">
-                <h3>Welcome to Camargo Portas</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis nostrum ab vero temporibus magnam, delectus!</p>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                            <svg class="icon icon-heart"><use xlink:href="#icon-heart"></use></svg>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo unde doloremque quo, fugit, nisi.</p>
-                    </div>
-                </div>
-
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                            <svg class="icon icon-medkit"><use xlink:href="#icon-medkit"></use></svg>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo unde doloremque quo, fugit, nisi.</p>
-                    </div>
-                </div>
+                <h3>Empresa Camargo Portas</h3>
+		<p>A equipe da <b>Camargo Portas</b> é formada por profissionais altamente capacitados com mais de 10 anos de experiência.</p>
 
                 <div class="media">
                     <div class="media-left">
@@ -120,7 +98,29 @@ layout: default
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam explicabo unde doloremque quo, fugit, nisi.</p>
+			    <p>Somos especialistas em fabricação, manutenção e automação de portões residenciais, comerciais e industriais.</p>
+                    </div>
+                </div>
+
+                <div class="media">
+                    <div class="media-left">
+                        <div class="boxed-icon">
+                            <svg class="icon icon-trophy"><use xlink:href="#icon-trophy"></use></svg>
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <p>Nosso portões automáticos contam com qualidade, beleza e uma excelente assistência técnicas dos profissionais.</p>
+                    </div>
+                </div>
+
+                <div class="media">
+                    <div class="media-left">
+                        <div class="boxed-icon">
+                            <svg class="icon icon-user"><use xlink:href="#icon-user"></use></svg>
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <p>Temos como objetivo atender nossos clientes de forma personalizada, ao traduzir o que há de mais moderno em automação em soluções simples e customizadas, proporcionando uma experiência única a cada cliente.</p>
                     </div>
                 </div>
             </div>
@@ -162,12 +162,14 @@ layout: default
                 <img src="{{ site.baseurl }}/img/{{ member.image }}" alt="{{ member.name }}">
                 <h4>{{ member.name }}</h4>
             </div>
+	    <!--
             <div class="expandable-box-bottom">
                 <a href="mailto:{{ member.email }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg></a>
                 </a>
                 <a href="tel:{{ member.phone }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a>
                 </a>
             </div>
+	    -->
         </div>
     {% endfor %}
     </div>
